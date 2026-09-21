@@ -1,0 +1,3 @@
+[submodule "l10n-templates"]
+	path = l10n-templates
+	url = git@invent.kde.org:localization/l10n-templates.git
