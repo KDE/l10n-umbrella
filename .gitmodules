@@ -28,3 +28,6 @@
 [submodule "l10n-nso"]
 	path = l10n-nso
 	url = git@invent.kde.org:localization/l10n-nso.git
+[submodule "l10n-te"]
+	path = l10n-te
+	url = git@invent.kde.org:localization/l10n-te.git
