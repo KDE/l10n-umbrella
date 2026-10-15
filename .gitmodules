@@ -31,3 +31,6 @@
 [submodule "l10n-te"]
 	path = l10n-te
 	url = git@invent.kde.org:localization/l10n-te.git
+[submodule "l10n-crh"]
+	path = l10n-crh
+	url = git@invent.kde.org:localization/l10n-crh.git
