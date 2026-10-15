@@ -43,3 +43,6 @@
 [submodule "l10n-gd"]
 	path = l10n-gd
 	url = git@invent.kde.org:localization/l10n-gd.git
+[submodule "l10n-lb"]
+	path = l10n-lb
+	url = git@invent.kde.org:localization/l10n-lb.git
