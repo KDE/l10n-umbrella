@@ -121,3 +121,6 @@
 [submodule "l10n-zh_HK"]
 	path = l10n-zh_HK
 	url = git@invent.kde.org:localization/l10n-zh_HK.git
+[submodule "l10n-be-latin"]
+	path = l10n-be-latin
+	url = git@invent.kde.org:localization/l10n-be-latin.git
