@@ -127,3 +127,6 @@
 [submodule "l10n-uz-cyrillic"]
 	path = l10n-uz-cyrillic
 	url = git@invent.kde.org:localization/l10n-uz-cyrillic.git
+[submodule "l10n-eu"]
+	path = l10n-eu
+	url = git@invent.kde.org:localization/l10n-eu.git
